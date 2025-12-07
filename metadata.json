@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Swirl: Gesture Art",
+  "description": "A real-time abstract art generator controlled by hand gestures. Uses MediaPipe for tracking and custom GLSL shaders for the impasto painting effect.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
